@@ -9,6 +9,17 @@ layout: default
     <p class="post-description">{{ page.description }}</p>
   </header>
 
+  <div>
+    {%- if page.pdf -%}
+    <a href="{{ page.pdf }}" class="btn post-button" role="button"><i class="fa-regular fa-file-pdf"></i> Download</a> &nbsp;
+    {%- endif -%}
+    {%- if page.slides -%}
+    <a href="{{ page.pdf }}" class="btn post-button" role="button"><i class="fa-regular fa-file-powerpoint"></i> Slides</a>
+    {% endif %}
+  </div>
+
+  <br>
+
   <article>
     {{ content }}
   </article>
