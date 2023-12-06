@@ -225,7 +225,7 @@ blockquote {
 
 
 .profile.float-right {
-  margin-left: 1rem;
+  margin-left: 1.5rem;
 }
 
 .profile.float-left {
@@ -427,6 +427,26 @@ blockquote {
 
   .contact-note {
     font-size: 0.8rem;
+  }
+}
+
+.fa-shake-hover{
+  &:hover {
+    -webkit-animation: fa-shake 2s infinite linear;
+    -moz-animation: fa-shake 2s infinite linear;
+    -o-animation: fa-shake 2s infinite linear;
+    animation: fa-shake 2s infinite linear;
+    animation-iteration-count: 2;
+  }
+}
+
+.fa-beat-hover{
+  &:hover {
+    -webkit-animation: fa-beat 1s infinite linear;
+    -moz-animation: fa-beat 1s infinite linear;
+    -o-animation: fa-beat 1s infinite linear;
+    animation: fa-beat 1s infinite linear;
+    animation-iteration-count: 2;
   }
 }
 
@@ -682,9 +702,17 @@ footer.sticky-bottom {
     }
   }
 
+  .grid{
+    grid-template-rows: 100px;
+    grid-template-columns: 100px;
+    align-items: right; 
+    justify-items: right;
+  }
+
   .grid-sizer,
+  
   .grid-item {
-    width: 250px;
+    max-width: 80%;
     margin-bottom: 10px;
   }
 

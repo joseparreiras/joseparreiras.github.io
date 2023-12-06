@@ -1,96 +1,96 @@
-{
-  "basics": {
-    "name": "Jose Antunes Neto",
-    "label": "Finance Ph.D. Candidate",
-    "image": "",
-    "email": "jose.neto@kellogg.northwestern.edu",
-    "phone": "(224) 296-9363",
-    "url": "https://joseparreiras.github.io/",
-    "summary": "Finance Ph.D. Student at Northwestern University. Interested in Asset Pricing, Financial Econometrics, and Machine Learning.",
-    "location": {
-      "address": "Office 4348, 2211 Campus Drive",
-      "postalCode": "60208",
-      "city": "Evanston",
-      "countryCode": "US",
-      "region": "Illinois"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
-  // "work": [
-  //   {
-  //     "name": "Institute for Advanced Study, Princeton University",
-  //     "position": "Professor of Theoretical Physics",
-  //     "url": "https://example.com",
-  //     "startDate": "1933-01-01",
-  //     "endDate": "1955-01-01",
-  //     "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-  //     "highlights": ["Relativity"]
-  //   }
-  // ],
-  "volunteer": [],
-  "education": [
-    {
-      "institution": "Keloogg School of Management, Northwestern University",
-      "url": "https://www.kellogg.northwestern.edu/doctoral/academicexperience/current_students.aspx",
-      "area": "Finance",
-      "studyType": "Ph.D.",
-      "startDate": "2020-08",
-      "endDate": "2025-07",
-      "score": "3.52",
-      "courses": []
-      // "location": "Evanston, IL"
-    },
-    {
-      "institution": "São Paulo School of Economics, FGV",
-      "url": "",
-      "area": "Economics",
-      "studyType": "Master of Science",
-      "startDate": "2018-01",
-      "endDate": "2020-03",
-      "score": "",
-      "courses": []
-      // "location": "São Paulo, SP, Brazil"
-    },
-    {
-      "institution": "IBMEC Belo Horizonte",
-      "url": "",
-      "area": "Economics",
-      "studyType": "Bachelor of Arts",
-      "startDate": "2014-01",
-      "endDate": "2017-12",
-      "score": "",
-      "courses": []
-      // "location": "Belo Horizonte, MG, Brazil"
-    }
-  ],
-  // "awards": [
-  //   {
-  //     "title": "Nobel Prize in Physics",
-  //     "date": "1921-11-01",
-  //     "awarder": "Royal Swedish Academy of Sciences",
-  //     "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-  //   }
-  // ],
-  "certificates": [],
-  "publications": [],
-  "skills": [],
-  "languages": [
-    {
-      "language": "Portuguese",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    }
-  ],
-  // "interests": ["Machine Learning", "Asset Pricing", "Financial Econometrics"],
-  "references": [],
-  "projects": []
-}
+// {
+//   "basics": {
+//     "name": "Jose Antunes Neto",
+//     "label": "Finance Ph.D. Candidate",
+//     "image": "",
+//     "email": "jose.neto@kellogg.northwestern.edu",
+//     "phone": "(224) 296-9363",
+//     "url": "https://joseparreiras.github.io/",
+//     "summary": "Finance Ph.D. Student at Northwestern University. Interested in Asset Pricing, Financial Econometrics, and Machine Learning.",
+//     "location": {
+//       "address": "Office 4348, 2211 Campus Drive",
+//       "postalCode": "60208",
+//       "city": "Evanston",
+//       "countryCode": "US",
+//       "region": "Illinois"
+//     },
+//     "profiles": [
+//       {
+//         "network": "Twitter",
+//         "username": "AlbertEinstein",
+//         "url": "https://twitter.com/AlbertEinstein"
+//       }
+//     ]
+//   },
+//   // "work": [
+//   //   {
+//   //     "name": "Institute for Advanced Study, Princeton University",
+//   //     "position": "Professor of Theoretical Physics",
+//   //     "url": "https://example.com",
+//   //     "startDate": "1933-01-01",
+//   //     "endDate": "1955-01-01",
+//   //     "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+//   //     "highlights": ["Relativity"]
+//   //   }
+//   // ],
+//   "volunteer": [],
+//   "education": [
+//     {
+//       "institution": "Keloogg School of Management, Northwestern University",
+//       "url": "https://www.kellogg.northwestern.edu/doctoral/academicexperience/current_students.aspx",
+//       "area": "Finance",
+//       "studyType": "Ph.D.",
+//       "startDate": "2020-08",
+//       "endDate": "2025-07",
+//       "score": "3.52",
+//       "courses": []
+//       // "location": "Evanston, IL"
+//     },
+//     {
+//       "institution": "São Paulo School of Economics, FGV",
+//       "url": "",
+//       "area": "Economics",
+//       "studyType": "Master of Science",
+//       "startDate": "2018-01",
+//       "endDate": "2020-03",
+//       "score": "",
+//       "courses": []
+//       // "location": "São Paulo, SP, Brazil"
+//     },
+//     {
+//       "institution": "IBMEC Belo Horizonte",
+//       "url": "",
+//       "area": "Economics",
+//       "studyType": "Bachelor of Arts",
+//       "startDate": "2014-01",
+//       "endDate": "2017-12",
+//       "score": "",
+//       "courses": []
+//       // "location": "Belo Horizonte, MG, Brazil"
+//     }
+//   ],
+//   // "awards": [
+//   //   {
+//   //     "title": "Nobel Prize in Physics",
+//   //     "date": "1921-11-01",
+//   //     "awarder": "Royal Swedish Academy of Sciences",
+//   //     "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+//   //   }
+//   // ],
+//   "certificates": [],
+//   "publications": [],
+//   "skills": [],
+//   "languages": [
+//     {
+//       "language": "Portuguese",
+//       "fluency": "Native speaker"
+//     },
+//     {
+//       "language": "English",
+//       "fluency": "Fluent"
+//     }
+//   ],
+//   // "interests": ["Machine Learning", "Asset Pricing", "Financial Econometrics"],
+//   "references": [],
+//   "projects": []
+// }

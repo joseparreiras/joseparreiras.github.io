@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Courses that I served as a Teaching Assistant since I joined Kellogg:.
+title: Teaching
+description: Courses that I served as a Teaching Assistant since I joined Kellogg.
 nav: true
 nav_order: 5
 ---

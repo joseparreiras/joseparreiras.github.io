@@ -3,11 +3,11 @@ layout: page
 title: The Impact of Information Shocks in the Dispersion of Betas
 description:
 img:
-pdf: example_pdf.pdf
-slides: example_pdf.pdf
+# pdf: example_pdf.pdf
+# slides: example_pdf.pdf
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+# related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.
