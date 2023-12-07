@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Location
-permalink: /location
+permalink: /location/
 subtitle:
 ---
 

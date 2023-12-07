@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Office Hours
-permalink: /office_hours
+permalink: /office_hours/
 nav: false
 subtitle:
 ---
