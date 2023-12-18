@@ -16,23 +16,24 @@
   type: time_table
   contents:
     - title: Ph.D.
-      department: Finance
+      department: Finance (Econometrics and Quantitative Economics)
       institution: Kellogg School of Management, Northwestern University
       year: 2020-2025
       description:
-        - "GPA: 3.52"
+        - "STEM Designated Program"
+        - "GPA: 3.52 out of 4"
     - title: Master of Science
       department: Economics
       institution: Sao Paulo School of Economics, Fundacao Getulio Vargas
       year: 2018-2020
       description:
-        - "GPA: 8.52"
+        - "GPA: 8.52 out of 10"
     - title: Bachelor of Arts
       department: Economics
       institution: IBMEC - Belo Horizonte
       year: 2014-2017
       description:
-        - "GPA: 90.60/100"
+        - "GPA: 90.60 out of 100"
 
 - title: Work Experience
   type: time_table
