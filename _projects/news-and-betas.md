@@ -1,10 +1,10 @@
 ---
 layout: page
 title: The Impact of Information Shocks in the Dispersion of Betas
-description:
+description: This paper studies the impact of public information arrival on the dispersion of risk in the stock market.
 # github: https://www.github.com/joseparreiras/newsbetas
-img: /assets/projects/news_and_betas/dispersion_effect.png
-pdf: /assets/projects/news_and_betas/news_and_betas.pdf
+img: /assets/projects/news-and-betas/dispersion_effect.png
+pdf: /assets/projects/news-and-betas/news-and-betas.pdf
 # slides: example_pdf.pdf
 importance: 1
 category: work
