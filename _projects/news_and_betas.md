@@ -2,84 +2,20 @@
 layout: page
 title: The Impact of Information Shocks in the Dispersion of Betas
 description:
-img:
-# pdf: example_pdf.pdf
+# github: https://www.github.com/joseparreiras/newsbetas
+img: /assets/projects/news_and_betas/dispersion_effect.png
+pdf: /assets/projects/news_and_betas/news_and_betas.pdf
 # slides: example_pdf.pdf
 importance: 1
 category: work
 # related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This paper studies the impact of public information arrival on the dispersion of risk in the stock market. More importantly, I distinguish between the heterogeneous effect of cashflow versus discount rate news. I show that cash flow news tend to generate greater dispersion in the market risk, here analysed by the one factor beta. As cash flow shocks tend to be more heterogeneously spread throughout the market, they impact the risk of many stocks in different sizes and directions. Therefore these type of shocks would likely lead to a higher increase in beta dispersion if compared to discount rate shocks, which tend to be more homogeneous and affect the market more uniformly. By combining real-time news data with high-frequency stock returns, I am able to identify the impact that these information shocks have on the market and link it to the intraday pattern of risk. I show that the distribution of betas in days in which the market is highly affected by cashflow news is significantly wider than average and trends downward along market hours. On the other hand, days in which the market is highly affected by discount rate news display a narrower distribution and a flatter intraday pattern.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+    {% include figure.html path="assets/projects/news_and_betas/dispersion_effect.png" title="Dispersion of Betas" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Dispersion of Betas in days with high intensity of cashflow news (red) versus discount rate news (blue).
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.html path="assets/img/6.jpg" title="example image"
-    class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.html path="assets/img/11.jpg" title="example image"
-    class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
