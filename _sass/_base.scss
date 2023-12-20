@@ -172,6 +172,9 @@ blockquote {
 
 .home {
   margin-top:30vh;
+  @media (max-width:576) {
+    margin-top:0; // Set to 0 to remove the margin when the screen is less than 576px
+  }
   // display: flex;
   // justify-content: center; // Center horizontally
   // align-items: center; // Center vertically
