@@ -181,6 +181,7 @@ blockquote {
 
   .home-description {
     // margin-right:250px;
+    text-align: justify;
     a {
       // color: inherit;
       
@@ -193,7 +194,7 @@ blockquote {
   }
 
   .home-header {
-    margin-left: 50px;
+    // margin-left: 50px;
   }
 
   .font-weight-bold{
@@ -203,8 +204,8 @@ blockquote {
 }
 
 .profile {
-  width: auto;
-  max-width: 250px;
+  // width: 250px;
+  min-width: 200px;
   // margin-left: 250px;
 
   .more-info {
