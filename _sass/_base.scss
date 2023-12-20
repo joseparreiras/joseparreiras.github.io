@@ -171,7 +171,10 @@ blockquote {
 // }
 
 .home {
-  margin-top: 200px;
+  margin-top:30vh;
+  // display: flex;
+  // justify-content: center; // Center horizontally
+  // align-items: center; // Center vertically
   
   .home-title {
     mjx-container[jax="CHTML"][display="true"] {
