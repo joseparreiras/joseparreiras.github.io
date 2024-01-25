@@ -51,6 +51,7 @@
       year: 2020
       description:
         - 'Analysis of the brazilian stock market. Investigate the behaviour and model the arrival of high frequency traders.'
+      link: https://cmsarquivos.febraban.org.br/Arquivos/documentos/PDF/Paper3_FGV.pdf
     - title: Researcher
       institution: COVID-19 Analytics
       link: https://covid19analytics.com.br/
