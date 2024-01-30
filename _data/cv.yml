@@ -18,6 +18,7 @@
     - title: Ph.D.
       department: Finance (Econometrics and Quantitative Economics)
       institution: Kellogg School of Management, Northwestern University
+      location: Evanston, IL, United States
       year: 2020-2025
       description:
         - "STEM Designated Program"
@@ -25,12 +26,14 @@
     - title: Master of Science
       department: Economics
       institution: Sao Paulo School of Economics, Fundacao Getulio Vargas
+      location: Sao Paulo, SP, Brazil
       year: 2018-2020
       description:
         - "GPA: 8.52 out of 10"
     - title: Bachelor of Arts
       department: Economics
-      institution: IBMEC - Belo Horizonte
+      institution: Brazilian Institute of Capital Markets (IBMeC)
+      location: Belo Horizonte, MG, Brazil
       year: 2014-2017
       description:
         - "GPA: 90.60 out of 100"
@@ -48,7 +51,7 @@
         - 'Database construction, model estimation and programming on the project “Investigating the Dynamics of Lending and Money Market Interest Rates in Brazil: A closer look to disaggregated data".'
       link: https://bit.ly/42y9kQN
     - title: Research Assistant
-      institution: B3 S.A - Brasil, Bolsa, Balcao
+      institution: B3 - Brazilian Exchange and OTC
       year: 2020
       description:
         - 'Analysis of the brazilian stock market. Investigate the behaviour and model the arrival of high frequency traders.'
@@ -71,17 +74,11 @@
         - "Scholarship granted by Coordination of Superior Level Staff Improvement (CAPES) for the Master of Science in Economics."
 
 - title: Languages
-  type: nested_list
+  type: list
   contents:
-    - title: Portuguese
-      items:
-        - Native
-    - title: English
-      items:
-        - Fluent
-    - title: Spanish
-      items:
-        - Basic Knowledge 
+    - "Portuguese: Native"
+    - "English: Fluent"
+    - "Spanish: Classroom Knowledge"
 
 # - title: Academic Interests
 #   type: nested_list

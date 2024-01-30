@@ -11,13 +11,13 @@
                       <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">{{ content.year }}</span>
                     </td>
                   </tr>
-                  {% if content.location %}
+                  <!-- {% if content.location %}
                   <tr>
                     <td>
                       <p class="location"><i class="fas fa-map-marker-alt iconlocation"></i> {{ content.location }}</p>
                     </td>
                   </tr>
-                  {% endif %}
+                  {% endif %} -->
                 </tbody>
               </table>
               
@@ -27,24 +27,30 @@
             {% if content.title %}
             <h6 class="title font-weight-bold ml-1 ml-md-4">{{content.title}}</h6>
             {% endif %}
-            {% if content.department or content.institution or content.link %}
+            {% if content.department or content.institution or content.link%}
             <table class="table-cv ml-1 ml-md-4 institution">
             <tbody>
+              {% if content.department %}
+              <tr>
+                <td style="vertical-align: top; text-align: center;" class="department"><i class="fa fa-book iconinstitution"></i></td>
+                <td class="department">{{content.department}}</td>
+              </tr>
+              {% endif %}
               {% if content.institution %}
               <tr>
                 <td style="vertical-align: top; text-align: center;" class="institution"><i class="fas fa-university iconinstitution"></i></td>
                 <td class="institution">{{content.institution}}</td>
               </tr>
               {% endif %}
-              {% if content.department %}
+              {% if content.location %}
               <tr>
-                <td style="vertical-align: top; text-align: center;" class="department"><i class="fa fa-book icondepartment"></i></td>
-                <td class="department">{{content.department}}</td>
+                <td style="vertical-align: top; text-align: center;" class="location"><i class="fa fa-location-dot iconinstitution"></i></td>
+                <td class="department">{{content.location}}</td>
               </tr>
               {% endif %}
               {% if content.link %}
               <tr>
-                <td style="vertical-align: top; text-align: center;" class="link"><i class="fas fa-globe iconlink"></i></td>
+                <td style="vertical-align: top; text-align: center;" class="link"><i class="fas fa-globe iconinstitution"></i></td>
                 <td class="link"><a href="{{ content.link }}" target="_blank" class="link">{{content.link}}</a></td>
               </tr>
               {% endif %}
