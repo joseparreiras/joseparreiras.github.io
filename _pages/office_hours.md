@@ -8,8 +8,21 @@ subtitle:
 
 ---
 
-<h4>Winter Schedule</h4>
-I will be out of the office for the Winter quarter. If you would like to meet, please reach out to me via <a href="mailto:{{ site.email }}?subject=Meeting Request">email</a> to schedule a time or use the calendar below:
+<h4>Spring Quarter</h4>
+
+Availability in the office is subject to current schedule and may change without notice. Please schedule an appointment upfront to ensure availability. You can do it by [email](mailto:jose.neto@kellogg.northwestern.edu) or use the scheduling tool below.
+
+| Day       | Time          |
+| --------- | ------------- |
+| Monday    | 10:00-18:00   |
+| Tuesday   | 10:00-18:00   |
+| Wednesday | 10:00-18:00   |
+| Thursday  | 10:00-18:00   |
+| Friday    | 10:00-18:00   |
+
+<h4>Summer Quarter</h4>
+
+*TBD*
 
 ---
 
