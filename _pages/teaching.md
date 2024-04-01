@@ -17,6 +17,8 @@ FINC 586-3: Asset Pricing III &nbsp;
 Prof. Torben Andersen, Spring 2023/2024
 </small>
 
+* Course material can be found on my [GitHub Repository](https://github.com/joseparreiras/finc585)
+
 ---
 
 <h3>MBA Courses</h3>
