@@ -21,4 +21,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a 4th year Finance Ph.D. student at [Kellogg School of Management](https://www.kellogg.northwestern.edu/doctoral/academicexperience/current_students.aspx). My interests are in Empirical Asset Pricing, Financial Econometrics and Machine Learning. My current research deals tries to understand the effect of information shocks on the dispersion of risk in the market. You can check all my research papers in the [Projects](/projects/) page.
+I am a Finance Ph.D. Candidate at [Kellogg School of Management](https://www.kellogg.northwestern.edu/doctoral/academicexperience/current_students.aspx). My interests are in Empirical Asset Pricing, Financial Econometrics and Machine Learning. My current research deals tries to understand the effect of information shocks on the dispersion of risk in the market. You can check all my research papers in the [Projects](/projects/) page.
