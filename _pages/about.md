@@ -8,7 +8,7 @@ nav: false
 
 profile:
   align: left
-  image: profile_square.jpg
+  image: profile.jpeg
   image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>Office 4348</p>
