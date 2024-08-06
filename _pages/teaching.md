@@ -12,11 +12,14 @@ nav_order: 5
 <h3>Ph.D. Courses</h3>
 
 <a href="https://www6.kellogg.northwestern.edu/CourseCatalog/coursecatalog/coursedetail?coursecatalogid=206653"><i class="fa-solid fa-link fa-xs"></i></a>
-FINC 586-3: Asset Pricing III &nbsp;
+FINC 586-3: Asset Pricing III
+<br>
 <small>
-Prof. Torben Andersen, Spring 2023; Prof. Torben Andersen & Prof. Zhengyang Jiang, Spring 2024
+&emsp;&emsp;
+Prof. Torben Andersen, Spring 2023; <br>
+&emsp;&emsp;
+Prof. Torben Andersen & Prof. Zhengyang Jiang, Spring 2024;
 </small>
-
 * The material I have made while TAing this course is available on a [GitHub Repository](https://github.com/joseparreiras/finc585)
 
 ---
