@@ -8,7 +8,7 @@ subtitle:
 
 ---
 
-<h4>Spring 2024</h4>
+<h4>Fall 2024</h4>
 
 Availability in the office is subject to current schedule and may change without notice. Please schedule an appointment upfront to ensure availability. You can do it by [email](mailto:jose.neto@kellogg.northwestern.edu) or use the scheduling tool below.
 
@@ -21,10 +21,6 @@ Availability in the office is subject to current schedule and may change without
 | Friday    | 11:00-16:00   |
 
 <br>
-
-<h4>Summer 2024</h4>
-
-*TBD*
 
 ---
 
