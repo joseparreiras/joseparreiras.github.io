@@ -18,3 +18,10 @@ paper, we investigate the determinants of this heterogeneity. More specifically,
 we look to explain why some episodes take too long to recover, as others take
 shorter than expected. We provide economic and statistical explanations for the
 causes of these episodes.
+
+<div style="text-align: center;">
+    {% include figure.html path="assets/projects/duration-of-crashes/crashes.png" title="S&P 500 Crashes" class="img-fluid rounded z-depth-1" %}
+    <div class="caption">
+        Stock market crashes in the United States since 1926.
+    </div>
+</div>
