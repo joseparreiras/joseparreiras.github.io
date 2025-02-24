@@ -12,7 +12,7 @@ nav_order: 5
 <h3>Ph.D. Courses</h3>
 
 <a href="https://www6.kellogg.northwestern.edu/CourseCatalog/coursecatalog/coursedetail?coursecatalogid=206653"><i class="fa-solid fa-link fa-xs"></i></a>
-FINC 586-3: Asset Pricing III  &nbsp; <a href="https://github.com/joseparreiras/finc585"><i class="fa-solid fa-github fa-xs"></i></a>
+FINC 586-3: Asset Pricing III  &nbsp; <a href="https://github.com/joseparreiras/finc585"><i class="fa-brands fa-github fa-xs"></i></a>
 <br>
 <small>
 &emsp;&emsp;
