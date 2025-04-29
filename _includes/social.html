@@ -4,14 +4,14 @@
 {%- if site.email -%}
 <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-regular fa-envelope fa-shake-hover"></i></a>
 {% endif %}
-{% for page in site.pages %}
+<!-- {% for page in site.pages %}
     {% if page.title == "Office Hours" %}
         <a href="{{ page.url | relative_url }}" title="Office Hours"><i class="fa-solid fa-calendar-day fa-sm fa-beat-hover"></i></a>
     {% endif %}
     {% if page.title == "Location" %}
         <a href=/location title="Address"><i class="fa-solid fa-location-dot fa-beat-hover"></i></a>
     {% endif %}
-{% endfor %}
+{% endfor %} -->
 {%- if site.telegram_username -%}
 <a href="https://telegram.me/{{ site.telegram_username }}" title="telegram"><i class="fab fa-telegram fa-beat-hover"></i></a>
 {% endif %}
