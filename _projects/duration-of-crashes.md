@@ -1,27 +1,19 @@
 ---
 layout: page
 title: Duration of Stock Market Crashes
-description: We investigate the episodes of stock market crashes in the United States since 1926.
+description: We study how long it takes the U.S. market (CRSP) to recover from 10% drawdowns since 1926, why recovery times vary, and how to use that information.
 img: /assets/projects/duration-of-crashes/crashes.png
 pdf: /assets/projects/duration-of-crashes/duration-of-crashes.pdf
 importance: 2
 category: work
-# related_publications: einstein1956investigations, einstein1950meaning
+# related_publications: 
 ---
 
-In this paper, we investigate the episodes of stock market crashes in the United
-States since 1926. We define a crash as a period of time during which the stock
-market (measured by the CRSP Index) falls by 10% over its recent peak value. 35
-episodes of crashes were identified during this period. When looking at the time
-to recovery for each one of these crashes, we see large heterogeneity. In this
-paper, we investigate the determinants of this heterogeneity. More specifically,
-we look to explain why some episodes take too long to recover, as others take
-shorter than expected. We provide economic and statistical explanations for the
-causes of these episodes.
+We study how long it takes the U.S. stock market to recover from a crash, defined as a 10% drop from a recent peak after the prior crash has recovered. Using the CRSP market index (daily data, 1926–2024), we identify **36** crash episodes. Recovery times are highly heterogeneous—**mean 387 days**, **median 127 days**, with a range from **30** to **4,544** days. On average, prices fall **28%** further before bottoming (time-to-trough: **13–1,039** days).
 
-<div style="text-align: center;">
-    {% include figure.html path="assets/projects/duration-of-crashes/crashes.png" title="S&P 500 Crashes" class="img-fluid rounded z-depth-1" %}
-    <div class="caption">
-        Stock market crashes in the United States since 1926.
-    </div>
-</div>
+We show that the distribution of recovery times is too heavy-tailed to be explained by i.i.d. returns. Crashes associated with **bubbles** and **recessions** persist significantly longer, whereas liquidity-driven corrections tend to resolve quickly. We develop a **conditional duration model** (Inverse Gaussian with state-dependent mean and volatility) and provide reduced-form and MLE evidence that observable conditions at crash onset—valuation (CAPE), recession state, bubble indicators (PSY), and crash speed—help explain recovery times. Finally, we construct simple timing rules conditioned on these states that deliver **higher Sharpe ratios** than buy-and-hold.
+
+- **Data:** CRSP market index (daily), 1926–2024  
+- **Signals:** CAPE, NBER recessions, PSY bubble episodes, crash speed  
+- **Takeaway:** Bubble/recession crashes last longer and have lower post-crash Sharpe; fast crashes recover faster
+---
